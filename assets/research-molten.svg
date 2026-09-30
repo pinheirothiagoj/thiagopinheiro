@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10243a"/><stop offset="1" stop-color="#183e53"/></linearGradient><radialGradient id="salt"><stop stop-color="#ffeab7"/><stop offset="1" stop-color="#d79b3a"/></radialGradient></defs>
+<rect width="800" height="460" rx="30" fill="url(#bg)"/>
+<g opacity=".13" fill="#89e0e0"><circle cx="90" cy="70" r="9"/><circle cx="670" cy="85" r="12"/><circle cx="730" cy="330" r="8"/><circle cx="155" cy="378" r="11"/></g>
+<g stroke="#76cbd4" stroke-width="3" opacity=".75">
+<circle cx="400" cy="230" r="150" fill="none" stroke-dasharray="6 12"/><circle cx="400" cy="230" r="98" fill="none" opacity=".55"/>
+</g>
+<circle cx="400" cy="230" r="42" fill="url(#salt)"/><text x="400" y="239" text-anchor="middle" font-family="Arial" font-weight="700" font-size="25" fill="#13263a">M³⁺</text>
+<g fill="#bdeaf0" stroke="#75c8d2" stroke-width="4">
+<circle cx="400" cy="102" r="25"/><circle cx="510" cy="158" r="25"/><circle cx="520" cy="286" r="25"/><circle cx="400" cy="356" r="25"/><circle cx="288" cy="295" r="25"/><circle cx="282" cy="166" r="25"/>
+</g>
+<g fill="#df8251" opacity=".95"><circle cx="604" cy="225" r="18"/><circle cx="216" cy="88" r="18"/><circle cx="621" cy="350" r="18"/><circle cx="168" cy="280" r="18"/></g>
+<text x="54" y="54" font-family="Arial" font-size="22" fill="#eaf6f7">ionic coordination · structure · transport</text>
+</svg>
